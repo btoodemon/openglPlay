@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "glad.h": "c",
+        "string.h": "c"
+    }
+}
